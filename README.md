@@ -15,7 +15,7 @@ After entering the first word from movie title, the movie data are going to be t
 
 ## Requirements
 
-Before using this project, you will need to have installed [Node.js](https://nodejs.org/en/), npm and [git](https://git-scm.com/) or [yarn](https://yarnpkg.com/).  For accessing API you need to have installed [axios](https://axios-http.com/docs/intro).
+Before using this project, you will need to have installed [Node.js](https://nodejs.org/en/), [git](https://git-scm.com/) and npm or [yarn](https://yarnpkg.com/).  For accessing API you need to have installed [axios](https://axios-http.com/docs/intro).
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
